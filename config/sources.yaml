@@ -1,0 +1,73 @@
+categories:
+  - name: malware
+    keywords:
+      - "malware"
+      - "trojan"
+      - "spyware"
+      - "backdoor"
+      - "worm"
+      - "botnet"
+
+  - name: ransomware
+    keywords:
+      - "ransomware"
+      - "ransom"
+      - "lockbit"
+      - "blackcat"
+      - "conti"
+      - "encrypt file"
+
+  - name: vulnerability
+    keywords:
+      - "vulnerability"
+      - "cve-"
+      - "zero-day"
+      - "zeroday"
+      - "exploit"
+      - "patch"
+      - "kerentanan"
+
+  - name: data-breach
+    keywords:
+      - "data breach"
+      - "data leak"
+      - "kebocoran data"
+      - "leaked"
+      - "exposed data"
+      - "data pelanggan"
+
+  - name: phishing
+    keywords:
+      - "phishing"
+      - "social engineering"
+      - "scam"
+      - "penipuan digital"
+      - "credential theft"
+
+  - name: apt
+    keywords:
+      - "apt"
+      - "advanced persistent threat"
+      - "nation-state"
+      - "state-sponsored"
+      - "cyber espionage"
+      - "threat actor"
+
+  - name: cyber-attack
+    keywords:
+      - "cyber attack"
+      - "serangan siber"
+      - "ddos"
+      - "hack"
+      - "hacker"
+      - "peretasan"
+      - "cyberattack"
+
+  - name: security-policy
+    keywords:
+      - "cybersecurity policy"
+      - "kebijakan keamanan"
+      - "regulation"
+      - "compliance"
+      - "data protection"
+      - "privacy"

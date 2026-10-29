@@ -1,0 +1,35 @@
+microsoft
+google
+apple
+amazon
+meta
+facebook
+twitter
+cisco
+oracle
+adobe
+citrix
+fortinet
+sonicwall
+vmware
+atlassian
+gitlab
+github
+fbi
+cia
+nsa
+cisa
+interpol
+europol
+kaspersky
+mcafee
+symantec
+crowdstrike
+mandiant
+palo alto
+checkpoint
+trend micro
+sophos
+fireeye
+recorded future
+proofpoint

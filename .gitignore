@@ -1,0 +1,37 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated reports
+report/output/
+
+# Logs
+*.log
+logs/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Secrets
+*.pem
+*.key
